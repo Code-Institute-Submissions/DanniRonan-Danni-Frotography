@@ -1,0 +1,6 @@
+run site with:
+python3 -m http.server
+
+push to git:
+git add .
+git commit -m "Write Here"
