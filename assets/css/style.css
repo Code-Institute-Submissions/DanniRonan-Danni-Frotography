@@ -1,6 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Grandiflora+One&family=Lato:wght@300&family=Oswald:wght@300&family=PT+Sans&family=Poppins:wght@500&display=swap');
 
+* {
+    margin: 1;
+    padding:0;
+    border: none;
+}
+
 body{
-    font-family: Poppins, sans-serif;
+    font-family: Oswald, sans-serif;
     font-weight: 200;
+    font-color: rgb(17, 17, 17)
 } 
+
+/* headings and logo */
+
+h1, h2 {
+    font-family: Poppins, Arial;
+    letter-spacing: 2px;
+    font-color: black;
+}
