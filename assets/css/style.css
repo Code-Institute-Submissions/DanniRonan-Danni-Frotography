@@ -43,7 +43,7 @@ h1, h2 {
 #menu li {
     list-style-type: none;
     display: inline-block;
-    margin-right: 10px
+    margin-right: 14px
 }
 
 #menu li a {
@@ -51,12 +51,20 @@ h1, h2 {
     text-decoration: none;
 }
 
-#menu li a:hover {
-    text-decoration: bold;
-    font-size:102%;
-    margin: 0%;
-}
-
 #menu li.active {
     font-weight: bold;
+}
+
+ul li {
+    transition: transform 0.75s;
+}
+
+ul li:hover {
+    transform: scale(1.2);
+    font-weight: bold;
+}
+
+header {
+    border-bottom: 3px solid black;
+    background-color: grey;
 }
