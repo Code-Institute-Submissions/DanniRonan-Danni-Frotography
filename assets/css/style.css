@@ -52,7 +52,11 @@ h1, h2 {
 }
 
 #menu li a:hover {
-    text-decoration: underline;
+    text-decoration: bold;
     font-size:102%;
     margin: 0%;
+}
+
+#menu li.active {
+    font-weight: bold;
 }
