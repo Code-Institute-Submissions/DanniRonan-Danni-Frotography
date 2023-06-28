@@ -10,6 +10,7 @@ body {
     font-family: Oswald, sans-serif;
     font-weight: 200;
     font-color: black;
+    background-color: black;
 }
 
 /* headings and logo */
@@ -32,7 +33,7 @@ h2 {
     height: 90px;
     width: auto;
     margin: 1%;
-    
+
 }
 
 /* Nav links */
@@ -40,6 +41,7 @@ h2 {
 header {
     display: flex;
     justify-content: space-between;
+    background-color: white;
 }
 
 #menu {
@@ -104,6 +106,7 @@ ul li:hover {
 /* footer */
 
 #footer {
+    background-color: white;
     display: inline-block;
     justify-content: space-between;
     background-color: grey;
@@ -114,7 +117,7 @@ ul li:hover {
 #contact {
     display: inline-block;
     justify-content: center;
-    margin-top: 2%;
+    margin-top: 1%;
     margin-bottom: 2%;
     margin-right: 35px;
 }
@@ -127,7 +130,6 @@ ul li:hover {
 #facebook {
     width: 40px;
     height: 40px;
-
 }
 
 #contact {
@@ -138,9 +140,26 @@ ul li:hover {
 /* music gallery page */
 
 #music-gallery {
+
     image-rendering: optimizeSpeed;
+    padding-top: 3%;
+    padding-bottom: 1%;
+    padding-left: 0.5%;
+    padding-right: 0.5%;
 }
 
 #music-gallery img {
+    justify-content: space-around;
     width: 33%;
+}
+
+#music-gallery img:hover {
+    transform: scale(1.2);
+}
+
+#music-about {
+    font-size: small;
+    font-weight: 900%;
+    border: 2px;
+    padding: 1.5%;
 }
