@@ -86,24 +86,31 @@ ul li:hover {
 /* footer */
 
 #footer {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: inline-block;
+    justify-content: space-between;
+    background-color: grey;
+}
 
+#instagram, #facebook, #contact {
+    display: inline-block;
+    justify-content: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-right: 35px;
 }
 
 #instagram {
-    width: 30px;
-    height: 30px;
+    width: 40px;
+    height: 40px;
 }
 
 #facebook {
-    width: 30px;
-    height: 30px;
+    width: 40px;
+    height: 40px;
 
 }
 
 #contact{
-    width: 30px;
-    height: 30px;
+    width: 39px;
+    height: 39px;
 }
