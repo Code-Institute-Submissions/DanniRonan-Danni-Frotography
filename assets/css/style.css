@@ -2,38 +2,43 @@
 
 * {
     margin: 0px;
-    padding:1px;
+    padding: 1px;
     border: 1px;
 }
 
-body{
+body {
     font-family: Oswald, sans-serif;
     font-weight: 200;
     font-color: black;
-} 
+}
 
 /* headings and logo */
 
-h1, h2 {
+h1,
+h2 {
     font-family: Poppins, Arial;
     letter-spacing: 2px;
     color: black;
 }
 
 #logo {
-    float: left;
+    display: flex;
     width: 8%;
 }
 
 /* Nav links */
 
 header {
-    position: absolute;
+    display: flex;
+    justify-content: space-between;
 }
 
 #menu {
     font-size: 180%;
+    margin-top: 15px;
     letter-spacing: 2px;
+    display: flex;
+    justify-content: space-between;
 }
 
 #menu #logo {
@@ -44,7 +49,6 @@ header {
     list-style-type: none;
     display: inline-block;
     margin-right: 15px;
-    float: right;
 }
 
 #menu li a {
@@ -65,18 +69,41 @@ ul li:hover {
 
 #bio {
     height: 100px;
-};
+}
 
 #photo {
     padding-top: 20px;
-    width:33%;
-    float: left;
+    width: 33%;
     background-color: blue;
 }
 
 #bio-line {
     padding-top: 30px;
     width: 60%;
-    float: right;
     background-color: red;
+}
+
+/* footer */
+
+#footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#instagram {
+    width: 30px;
+    height: 30px;
+}
+
+#facebook {
+    width: 30px;
+    height: 30px;
+
+}
+
+#contact{
+    width: 30px;
+    height: 30px;
 }
