@@ -82,17 +82,12 @@ ul li:hover {
     background-color: black;
 }
 
-#photo {
-    padding-top: 1px;
-    width: 30%;
-}
-
 #profile-photo img {
     width: 20%;
-    margin: 6px;
+    margin: 16px;
     border: 3px solid black;
+    display: flex;
     justify-content: center;
-
 }
 
 #bio-line {
