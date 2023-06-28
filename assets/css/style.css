@@ -14,7 +14,13 @@ body {
 
 /* headings and logo */
 
-h1,
+h1 {
+    font-family: dancing script, Helvetica;
+    font-size: 400%;
+    font-weight: 300;
+    font-color: slategrey;
+}
+
 h2 {
     font-family: Poppins, Arial;
     letter-spacing: 2px;
@@ -23,7 +29,10 @@ h2 {
 
 #logo {
     display: flex;
-    width: 8%;
+    height: 90px;
+    width: auto;
+    margin: 1%;
+    
 }
 
 /* Nav links */
@@ -49,6 +58,7 @@ header {
     list-style-type: none;
     display: inline-block;
     margin-right: 15px;
+    margin-top: 12px;
 }
 
 #menu li a {
@@ -68,19 +78,32 @@ ul li:hover {
 /* Section 1, bio */
 
 #bio {
-    height: 100px;
+    height: 300px;
+    background-color: black;
 }
 
 #photo {
-    padding-top: 20px;
-    width: 33%;
-    background-color: blue;
+    padding-top: 1px;
+    width: 30%;
+}
+
+#profile-photo img {
+    width: 20%;
+    margin: 6px;
+    border: 3px solid black;
+    justify-content: center;
+
 }
 
 #bio-line {
-    padding-top: 30px;
+    float: right;
+    font-size: 120%;
+    padding-top: 10px;
+    padding-left: 20px;
     width: 60%;
-    background-color: red;
+    margin: 2px;
+    background-color: black;
+    color: white;
 }
 
 /* footer */
@@ -91,7 +114,9 @@ ul li:hover {
     background-color: grey;
 }
 
-#instagram, #facebook, #contact {
+#instagram,
+#facebook,
+#contact {
     display: inline-block;
     justify-content: center;
     margin-top: 2%;
@@ -110,7 +135,7 @@ ul li:hover {
 
 }
 
-#contact{
+#contact {
     width: 39px;
     height: 39px;
 }
