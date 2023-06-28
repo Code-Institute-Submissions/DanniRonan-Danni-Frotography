@@ -134,3 +134,13 @@ ul li:hover {
     width: 39px;
     height: 39px;
 }
+
+/* music gallery page */
+
+#music-gallery {
+    image-rendering: optimizeSpeed;
+}
+
+#music-gallery img {
+    width: 33%;
+}
