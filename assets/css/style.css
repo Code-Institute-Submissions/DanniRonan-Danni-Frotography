@@ -27,6 +27,10 @@ h1, h2 {
 
 /* Nav links */
 
+header {
+    position: absolute;
+}
+
 #menu {
     font-size: 180%;
     letter-spacing: 2px;
@@ -63,14 +67,14 @@ ul li:hover {
     height: 100px;
 };
 
-#left-about {
-    padding-top: 30px;
+#photo {
+    padding-top: 20px;
     width:33%;
     float: left;
     background-color: blue;
 }
 
-#right-about {
+#bio-line {
     padding-top: 30px;
     width: 60%;
     float: right;
