@@ -217,3 +217,15 @@ ul li:hover {
     border: 2px;
     padding: 1.5%;
 }
+
+/*form */
+form {
+    width: 60%;
+    margin: 0 auto;
+}
+
+label {
+    color: white;
+    display: block;
+    margin-top: 10px;
+}
