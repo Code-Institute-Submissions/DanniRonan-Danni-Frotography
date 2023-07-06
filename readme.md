@@ -1,6 +1,8 @@
 # DANNI FROTOGRAPHY
 
-This website showcases the photography work of Irish photographer, Danni Froto. It features her music, portraits, and circus photography.
+This website showcases the photography work of Irish photographer, Danni Froto. It features her music, portraits, and circus photography. It was created as Portfolio 1: Diploma in Full Stack Software Development (E-commerce Applications).
+
+![Danni Froto Logo](assets/images/dannifrotologo.png)
 
 ## User:
 
@@ -72,6 +74,7 @@ The Danni Frotography website was deployed using a web hosting service. The proj
 - Sticky Footer: [CSS-Tricks - A Couple Takes Sticky Footer](https://css-tricks.com/couple-takes-sticky-footer/)
 - Readme/Markdown: [Noble Desktop - Create a README File](https://www.nobledesktop.com/learn/git/create-a-readme-file)
 - Citations in Markdown: [RStudio - Visual Markdown Editing](https://rstudio.github.io/visual-markdown-editing/citations.html#:~:text=You%20insert%20citations%20by%20either,and%20are%20separated%20by%20semicolons.)
+- Adding Images to README.md on GitHub: [Stack Overflow - How to Add Images to README.md on GitHub](https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github)
 
 ## Acknowledgements
 
