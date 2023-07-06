@@ -9,7 +9,7 @@
 body {
     font-family: Oswald, sans-serif;
     font-weight: 200;
-    font-color: black;
+    color: black;
     background-color: black;
 }
 
@@ -19,7 +19,7 @@ h1 {
     font-family: dancing script, Helvetica;
     font-size: 400%;
     font-weight: 300;
-    font-color: slategrey;
+    color: white;
 }
 
 h2 {
@@ -77,20 +77,18 @@ ul li:hover {
 
 #bio {
     background-color: black;
-    align-items: center;
+    display: flex;
 }
 
 #profile-photo img {
-    width: 20%;
-    margin: 16px;
-    border: 3px solid black;
-    display: flex;
+    width: 60%;
+    margin: 10%;
+    border: 3px solid rgb(255, 255, 255);
 }
 
 #bio-line {
     font-size: 120%;
-    padding-top: 10px;
-    padding-left: 20px;
+    padding-top: 4%;
     width: 60%;
     margin: 2px;
     background-color: black;
