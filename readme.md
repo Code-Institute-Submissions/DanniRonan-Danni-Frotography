@@ -1,4 +1,4 @@
-DANNI FROTOGRAPHY
+#DANNI FROTOGRAPHY
 
 This website for the photography of Irish photogapher, Danni Froto. It showcases her music, portraits, and circus photography work.
 
