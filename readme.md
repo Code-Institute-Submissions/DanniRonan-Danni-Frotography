@@ -37,6 +37,16 @@ As a visitor to the website, I want to be able to:
   - Gallery Pages: Show three relevant images and a quote.
   - Contact: Contains a contact form.
 
+## Page Break down:
+- Header: Consistent across all pages, showing Danni Froto logo and navigational links to Home, 3 gallery pages, external store page, contact form page.
+- Footer: Provides external links to Facebook and Instagram. Provides link to contact page.
+- Home : Features hero image as well as a brief bio about Danni Froto as well as some quotes from her.
+- Music Gallery: Features 3 images taken by Danni Froto in order to showcase her gig photography work as well as a quote about the work.
+- Portrait Gallery: Features 3 images taken by Danni Froto in order to showcase her portrait photography work as well as a quote about the work.
+- Circus Gallery: Features 3 images taken by Danni Froto in order to showcase her circus photography work as well as a quote about the work.
+- Shop: Brings users to an external shopify link in a new tab where they can purchase up a copy of her book. 
+- Contact Me: Allows users to send Danni Froto a direct message via the form provided, once submitted users will receive a thank you message where they can divert back to send another message or click to the galleries in order to view them. 
+
 ## Technologies Used
 
 The following technologies were used in the development of the Danni Frotography website:
