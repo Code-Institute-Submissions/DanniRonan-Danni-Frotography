@@ -47,6 +47,8 @@ As a visitor to the website, I want to be able to:
 - Shop: Brings users to an external shopify link in a new tab where they can purchase up a copy of her book. 
 - Contact Me: Allows users to send Danni Froto a direct message via the form provided, once submitted users will receive a thank you message where they can divert back to send another message or click to the galleries in order to view them. 
 
+![Pages across Screen Types](assets/images/read-me/demo-screen-sizes.jpg)
+
 ## Technologies Used
 
 The following technologies were used in the development of the Danni Frotography website:
