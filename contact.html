@@ -4,9 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content=" Webpage for Danni Frotos music, portraits and circus photography">
-    <meta name="keywords"
-        content="photography, ireland, music, portraits, circus, irish photographer, pit photographer">
+    <meta name="description" content="Webpage for Danni Frotos music, portraits and circus photography">
+    <meta name="keywords" content="photography, ireland, music, portraits, circus, irish photographer, pit photographer">
 
     <link rel="stylesheet" href="assets/css/style.css">
 
@@ -14,104 +13,95 @@
 
 </head>
 
-<header>
+<body>
 
-    <img id="logo" src="assets/images/dannifrotologo.png" alt="Danni Froto Logo">
+    <header>
 
-    <nav id="menu">
-        <ul>
-            <li>
-                <a href="index.html">Home</a>
-            </li>
+        <img id="logo" src="assets/images/dannifrotologo.png" alt="Danni Froto Logo">
 
-            <li>
-                <a href="music.html">Music</a>
+        <nav id="menu">
+            <ul>
+                <li>
+                    <a href="index.html">Home</a>
+                </li>
+                <li>
+                    <a href="music.html">Music</a>
+                </li>
+                <li>
+                    <a href="portraits.html">Portraits</a>
+                </li>
+                <li>
+                    <a href="circus.html">Circus</a>
+                </li>
+                <li>
+                    <a href="https://dannifroto.myshopify.com/products/phone-lights-and-dark-nights" target="_blank">Shop</a>
+                </li>
+                <li>
+                    <a href="contact.html">Contact Me</a>
+                </li>
+            </ul>
+        </nav>
+
+    </header>
+
+    <section>
+
+        <form action="thank-you-message.html">
+
+            <label for="first-name">First Name:</label>
+            <input type="text" id="first-name" name="first-name" required placeholder="Enter your first name">
+
+            <label for="surname">Surname:</label>
+            <input type="text" id="surname" name="surname" required placeholder="Enter your surname">
+
+            <p>Enquiry:</p>
+            <label>
+                <input type="checkbox" name="enquiry" value="music">
+                Music
+            </label>
+            <label>
+                <input type="checkbox" name="enquiry" value="portrait">
+                Portrait
+            </label>
+            <label>
+                <input type="checkbox" name="enquiry" value="circus">
+                Circus
+            </label>
+            <label>
+                <input type="checkbox" name="enquiry" value="other">
+                Other
+            </label>
+
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" rows="4" required placeholder="Enter your message"></textarea>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required placeholder="Enter your email">
+
+            <input type="submit" value="Submit">
+        </form>
+
+    </section>
+
+    <footer style="background-color: white;">
+        <ul id="footer-icons">
+            <li id="instagram">
+                <a href="https://www.instagram.com/dannifroto/" target="_blank">
+                    <img id="instagram" src="assets/images/socials/insta-logo.png" alt="instagram">
+                </a>
             </li>
-            <li>
-                <a href="portraits.html">Portraits</a>
+            <li id="facebook">
+                <a href="https://www.facebook.com/DanniFroto" target="_blank">
+                    <img id="facebook" src="assets/images/socials/facebook-logo.png" alt="facebook">
+                </a>
             </li>
-            <li>
-                <a href="circus.html">Circus</a>
-            </li>
-            <li>
-                <a href="https://dannifroto.myshopify.com/products/phone-lights-and-dark-nights" target="_blank">
-                    Shop</a>
-            <li>
-                <a href="contact.html">Contact Me</a>
+            <li id="contact">
+                <a href="contact.html">
+                    <img id="contact" src="assets/images/socials/contact.png" alt="Contact Me">
+                </a>
             </li>
         </ul>
-
-    </nav>
-
-</header>
-
-<section>
-
-    <form>
-
-        <label for="first-name">First Name:</label>
-        <input type="text" id="first-name" name="first-name" required placeholder="Enter your first name">
-
-        <label for="surname">Surname:</label>
-        <input type="text" id="surname" name="surname" required placeholder="Enter your surname">
-
-        <p>Enquiry:</p>
-        <label>
-            <input type="checkbox" name="enquiry" value="music">
-            Music
-        </label>
-        <label>
-            <input type="checkbox" name="enquiry" value="portrait">
-            Portrait
-        </label>
-        <label>
-            <input type="checkbox" name="enquiry" value="circus">
-            Circus
-        </label>
-        <label>
-            <input type="checkbox" name="enquiry" value="other">
-            Other
-        </label>
-
-        <label for="message">Message:</label>
-        <textarea id="message" name="message" rows="4" required placeholder="Enter your message"></textarea>
-
-        <label for="email">Email:</label>
-        <input type="email" id="email" name="email" required placeholder="Enter your email">
-
-        <input type="submit" value="Submit">
-    </form>
-
-
-
-<div id="message-container" style="display: none;">
-  <p id="success-message">Thank you for submitting the form!</p>
-</div>
-
-
-</section>
-<footer style="background-color: white;">
-    <ul id="footer-icons">
-
-        <li id="instagram">
-            <a href="https://www.instagram.com/dannifroto/" target="_blank">
-                <img id="instagram" src="assets/images/socials/insta-logo.png" alt="instagram">
-            </a>
-        </li>
-
-        <li id="facebook">
-            <a href="https://www.facebook.com/DanniFroto" target="_blank">
-                <img id="facebook" src="assets/images/socials/facebook-logo.png" alt="facebook">
-            </a>
-        </li>
-
-        <li id="contact"> <a href="contact.html">
-                <img id="contact" src="assets/images/socials/contact.png" alt="Contact Me">
-            </a>
-        </li>
-
-    </ul>
-</footer>
+    </footer>
 
 </body>
 
