@@ -60,33 +60,17 @@ Icons: Font Awesome
 Code and Guidance: Inspired by code examples and guidance from mentors and online resources
 
 Reference sources: 
-fonts: https://fonts.google.com/
-
-borders: https://www.w3schools.com/css/css_border.asp
-
-open new tab: https://wordpress.com/forums/topic/how-to-open-custom-html-link-to-open-in-new-tab/#:~:text=You%20can%20make%20a%20HTML,target%3D%E2%80%9D_blank%E2%80%9D%20attribute.
-
-photo gallery: https://www.makeuseof.com/image-gallery-html-css-javascript/ 
-
-form: https://www.typeform.com/try/form-builder/?gclsrc=aw.ds&tf_campaign=europe-generic-form-english-desktop_18081895345&tf_source=google&tf_medium=paid&tf_content=150888946231_654632140935&tf_term=make+html+form&tf_dv=c&tf_matchtype=e&tf_adposition=&tf_location=1007850&gclid=CjwKCAjwqZSlBhBwEiwAfoZUIN0QLsmRra2FbWemeuu-cRnYoEiJvpU6e5bCu_PE9jNPCD8zEudtNBoCXs4QAvD_BwE&gclsrc=aw.ds&attribution_user_id=72316604-a9af-4ab2-a570-f6b35edda4fb
-https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form
-
+Fonts: https://fonts.google.com/
+Borders: https://www.w3schools.com/css/css_border.asp
+Opening new tab: https://wordpress.com/forums/topic/how-to-open-custom-html-link-to-open-in-new-tab/#:~:text=You%20can%20make%20a%20HTML,target%3D%E2%80%9D_blank%E2%80%9D%20attribute.
+Photo Gallery: https://www.makeuseof.com/image-gallery-html-css-javascript/
+Form: https://www.typeform.com/try/form-builder/
 Read.Me: https://github.com/janebmckenna/milestone-project-1
-
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-https://flexboxfroggy.com/
-
-grid:
-
-https://css-tricks.com/snippets/css/complete-guide-grid/
-https://cssgridgarden.com/python3 
-
-https://github.com/Zest-studi-o/P01-Allotment-gardens/blob/main/README.md
-
-https://jigsaw.w3.org/css-validator/
-https://validator.w3.org/
-
-https://css-tricks.com/couple-takes-sticky-footer/
+CSS: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+Grid: https://css-tricks.com/snippets/css/complete-guide-grid/
+CSS Validation: https://jigsaw.w3.org/css-validator/
+HTML Validation: https://validator.w3.org/
+Sticky Footer: https://css-tricks.com/couple-takes-sticky-footer/
 
 Acknowledgements
-Special thanks to the mentors and individuals who provided guidance and support during the development of the Danni Frotography website.
+Special thanks to the mentors, tutors, classmates and others who provided guidance and support during the creation of the Danni Frotography website.
