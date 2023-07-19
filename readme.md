@@ -44,19 +44,33 @@ As a visitor to the website, I want to be able to:
 - Footer: Provides external links to Facebook and Instagram. Provides link to contact page.
 
 - Home : Features hero image as well as a brief bio about Danni Froto as well as some quotes from her.
+
 ![Home Page](assets/images/read-me/home-screenshot.png)
+
 - Music Gallery: Features 3 images taken by Danni Froto in order to showcase her gig photography work as well as a quote about the work.
+
 ![Music Gallery](assets/images/read-me/music-screenshot.png)
+
 - Portrait Gallery: Features 3 images taken by Danni Froto in order to showcase her portrait photography work as well as a quote about the work.
+
 ![Portrait Gallery](assets/images/read-me/portrait-screenshot.png)
+
 - Circus Gallery: Features 3 images taken by Danni Froto in order to showcase her circus photography work as well as a quote about the work.
+
 ![Circus Gallery](assets/images/read-me/circus-screenshot.png)
+
 - Shop: Brings users to an external shopify link in a new tab where they can purchase up a copy of her book. 
+
 ![External Store](assets/images/read-me/store-screenshot.png)
+
 - Contact Me: Allows users to send Danni Froto a direct message via the form provided, once submitted users will receive a thank you message where they can divert back to send another message or click to the galleries in order to view them.
+
 ![Contact Page](assets/images/read-me/contact-screenshot.png)
+
 ![Thank you Message](assets/images/read-me/thankyou-screenshot.png)
+
 - I ensured pages worked correctly across different screen sizes.
+
 ![Pages across Screen Types](assets/images/read-me/demo-screen-sizes.jpg)
 
 
