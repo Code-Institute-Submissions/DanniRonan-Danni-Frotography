@@ -23,7 +23,7 @@ title{
 
 h1 {
     font-family: dancing script, Helvetica;
-    font-size: 8px;
+    font-size: 36px;
     color: white;
 }
 
@@ -44,7 +44,7 @@ h2 {
 
 p{
     color: white;
-    font-size: 4vmax;
+    font-size: 16px;
 }
 
 /* Nav links */
@@ -127,7 +127,6 @@ footer {
     justify-content: center;
     margin-top: 1%;
     margin-bottom: 2%;
-
 }
 
 #instagram {
@@ -137,12 +136,34 @@ footer {
 }
 
 #facebook {
+    
     width: 40px;
     height: 40px;
     padding: 10px;
 }
 
 #contact {
+   
+    width: 39px;
+    height: 39px;
+    padding: 10px;
+}
+
+#instagram_img {
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+}
+
+#facebook_img {
+    
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+}
+
+#contact_img {
+   
     width: 39px;
     height: 39px;
     padding: 10px;
@@ -153,8 +174,6 @@ footer {
 /* music gallery page */
 
 #music-gallery {
-
-    image-rendering: optimizeSpeed;
     padding-top: 3%;
     padding-bottom: 1%;
     padding-left: 0.5%;
@@ -172,7 +191,6 @@ footer {
 
 #music-about {
     font-size: small;
-    font-weight: 900%;
     border: 2px;
     padding: 1.5%;
 }
@@ -180,8 +198,6 @@ footer {
 /* Portrait Gallery */
 
 #portrait-gallery {
-
-    image-rendering: optimizeSpeed;
     padding-top: 3%;
     padding-bottom: 1%;
     padding-left: 0.5%;
@@ -199,7 +215,6 @@ footer {
 
 #portrait-about {
     font-size: small;
-    font-weight: 900%;
     border: 2px;
     padding: 1.5%;
 }
@@ -207,8 +222,6 @@ footer {
 /* Circus Gallery */
 
 #circus-gallery {
-
-    image-rendering: optimizeSpeed;
     padding-top: 3%;
     padding-bottom: 1%;
     padding-left: 0.5%;
@@ -226,7 +239,6 @@ footer {
 
 #circus-about {
     font-size: small;
-    font-weight: 900%;
     border: 2px;
     padding: 1.5%;
 }
