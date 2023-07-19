@@ -59,6 +59,15 @@ As a visitor to the website, I want to be able to:
 - I ensured pages worked correctly across different screen sizes.
 ![Pages across Screen Types](assets/images/read-me/demo-screen-sizes.jpg)
 
+
+## Fixed Bugs
+![Bug Fixes](assets/images/read-me/bug-fixes.png)
+
+## Known Bugs
+![Known Bugs](assets/images/read-me/known-bug.png)
+
+- This bug is present across the gallery pages on the website, however I chose to leave it as it is, the site has div elements. I chose not to add additonal Header elements eg. H2, as I liek the layout as it is. 
+
 ## Technologies Used
 
 The following technologies were used in the development of the Danni Frotography website:
