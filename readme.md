@@ -2,6 +2,8 @@
 
 This website showcases the photography work of Irish photographer, Danni Froto. It features her music, portraits, and circus photography. It was created as Portfolio 1: Diploma in Full Stack Software Development (E-commerce Applications).
 
+[Danni Frotography Website](https://dannironan.github.io/Danni-Frotography/)
+
 ![Danni Froto Logo](assets/images/dannifrotologo.png)
 
 ## User:
@@ -61,7 +63,7 @@ The following technologies were used in the development of the Danni Frotography
 
 ## Deployment
 
-The Danni Frotography website was deployed using a web hosting service. The project's code was pushed to a Git repository, and the website is accessible through its live URL.
+The Danni Frotography website was deployed using a web hosting service. The project's code was pushed to a Git repository, and the website is accessible through its live URL here: [Danni Frotography Website](https://dannironan.github.io/Danni-Frotography/)
 
 ## Credits
 
