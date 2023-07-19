@@ -13,12 +13,17 @@ body {
     background-color: black;
 }
 
+
 /* headings and logo */
+
+title{
+    color: white;
+    font-family: dancing script, Helvetica;
+}
 
 h1 {
     font-family: dancing script, Helvetica;
-    font-size: 400%;
-    font-weight: 300;
+    font-size: 8px;
     color: white;
 }
 
@@ -26,6 +31,7 @@ h2 {
     font-family: Poppins, Arial;
     letter-spacing: 2px;
     color: black;
+    font-size: 2vmax;
 }
 
 #logo {
@@ -38,6 +44,7 @@ h2 {
 
 p{
     color: white;
+    font-size: 4vmax;
 }
 
 /* Nav links */
@@ -120,6 +127,7 @@ footer {
     justify-content: center;
     margin-top: 1%;
     margin-bottom: 2%;
+
 }
 
 #instagram {
